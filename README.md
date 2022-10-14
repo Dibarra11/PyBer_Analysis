@@ -21,7 +21,7 @@ Given the number of Rides per region, we can infer that Urban cities have more d
 
 ### Total Fare & Average Fare per Ride
 
-Rural cities had the highest average fare per ride at $34.62, Suburban at $30.90, and Urban at $ 24.53. We can see a higher fare in rural areas associated with fewer drivers, creating a higher demand for riders. Consequently, we see the same trend for Suburban. On the other hand, urban cities had the lowest average price due to the high volume of drivers in the area, making the ride-sharing commodity widely available.
+Rural cities had the highest average fare per ride at $34.62, Suburban at $30.90, and Urban at $24.53. We can see a higher fare in rural areas associated with fewer drivers, creating a higher demand for riders. Consequently, we see the same trend for Suburban. On the other hand, urban cities had the lowest average price due to the high volume of drivers in the area, making the ride-sharing commodity widely available.
 
 ![image](https://github.com/Dibarra11/PyBer_Analysis/blob/04654d6c083a285d04686ec1ad28720a8166bddf/PyBer_fare_summary.png)
 
