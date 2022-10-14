@@ -6,11 +6,23 @@ The purpose of the project is to provide insight to PyBer, a ride-sharing compan
 
 ## Results
 
-The following data was collected from the three regions based on Total Rides, Total Drivers, and Total Fare and Average price
+The following data was collected from the three regions based on Total Rides, Total Drivers, Total Fare, Average Fare per Ride, and Average Fare per Driver. 
 
 ![image](https://github.com/Dibarra11/PyBer_Analysis/blob/b2a3d6f845ec2196a50e8fdf0f0d15b5e9773128/fig8.png)
 
 
 ### Total Rides 
 
-Urban cities have the highest number of rides when compared to suburban and rural. furthe
+Urban cities have the highest number of rides with 1,625 when compared to suburban with 625 rides and rural with 125 rides. In prespective urban cities have 1500 more rides than rural and 1000 rides more than Suburban.
+
+## Total Drivers
+
+Given the amount of Rides per region we can infer that Urban cities have a greater amount of drivers with 2405 followed by Suburban with 490 and Rural with 78.
+
+## Total Fare & Average Fare per Ride
+
+Rual cities had the highest average fare per ride at $34.62, followed by Suburban at $30.90 and lastly Urban at 24.53. We can see a higher fare in rural areas associated with having less drivers avaiable creating a higher demand for the riders, consequenlty we see the same trend for Suburban. Urban cities had the lowest average price due to the high volume of drivers in the area making the ride-sharing commoddity widly avaiable.
+
+![image]()
+
+## Average Fare per Driver
