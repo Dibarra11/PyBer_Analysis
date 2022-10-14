@@ -8,7 +8,8 @@ The purpose of the project is to provide insight to PyBer, a ride-sharing compan
 
 The following data was collected from the three regions based on Total Rides, Total Drivers, and Total Fare and Average price
 
-image
+![image]()
+
 
 ### Total Rides 
 
